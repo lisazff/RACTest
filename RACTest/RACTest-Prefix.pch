@@ -1,0 +1,19 @@
+//
+//  RACTest-Prefix.pch
+//  RACTest
+//
+//  Created by lisa on 2017/6/5.
+//  Copyright © 2017年 lisa. All rights reserved.
+//
+
+#ifndef RACTest_Prefix_pch
+#define RACTest_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+
+
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#endif /* RACTest_Prefix_pch */
